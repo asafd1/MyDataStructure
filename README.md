@@ -7,5 +7,7 @@ The task is to implement MyDataStructure with the following charectaristics.
   4. you may use internally any java data structures, and any number of threads
 
 
-**exercise success criteria is that "mvn install" succeeds**
+##### Note:
+  1. The exercise success criteria is that "mvn install" succeeds
+  2. The exercise should be delivered as a Pull request to this project.
 
